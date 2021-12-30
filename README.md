@@ -1,4 +1,5 @@
 ## This is a simple app that predict the medical cost in this haphazard time and provide a user a small relief.
+**Here is the app link**:[Medical cost predictor](https://medical-cost-finder.herokuapp.com)
 
 # Medical-cost-prediction
 
