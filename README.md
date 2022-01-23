@@ -1,3 +1,4 @@
+- toc: true
 ## This is a simple app that predict the medical cost in this haphazard time and provide a user a small relief. This project is done on the indian dataset so it shows the result in indian currency.
 **Here is the app link**:[Medical cost predictor](https://medical-cost-finder.herokuapp.com)
 
