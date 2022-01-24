@@ -6,6 +6,11 @@
 
 # Medical-cost-prediction
 
+### Project is divided into  3 parts
+- **Building a Machine Learning model to predict a medical cost.**
+- **Building a web app on Django to mount the predicted model.**
+- **Deploying the Django project on Heroku through Github.**
+
 # Dataset
 - We have a **Indian** dataset that contains information about people who had to pay for **medical assistance or surgeries**. It contains some of the **Charecterstics** of these     people like **sex, if they are a smoker etc**.
 - We will be using this dataset to **predict** the cost of medical assistance a person has to pay.
