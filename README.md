@@ -22,6 +22,10 @@
 - ![m7](images/m9.jpg)
 
 
+# Algorithm Used
+- **Random Forest Gives Test Accuracy of -->> 83%
+
+
 # This is how you can install this app in your local machine
 1. Create a project directory
 2. Build an environment for the project in the directory.
