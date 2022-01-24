@@ -23,7 +23,7 @@
 
 
 # Algorithm Used
-- **Random Forest Gives Test Accuracy of -->> 83%
+- **Random Forest Gives Test Accuracy of -->> 83%**
 
 
 # This is how you can install this app in your local machine
